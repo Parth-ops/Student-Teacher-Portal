@@ -1,0 +1,16 @@
+.gfg {
+    margin: 3%;
+    position: relative;
+}
+
+.first-txt {
+    position: absolute;
+    top: 17px;
+    left: 50px;
+}
+
+.second-txt {
+    position: absolute;
+    top: 20px;
+    right: 10px;
+}
